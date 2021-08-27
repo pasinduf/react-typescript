@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sample renders correctly 1`] = `
+<div>
+  <label
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <a
+      className="normal"
+      href="https://www.youtube.com/"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      target="_blank"
+    >
+      youtube
+    </a>
+    <br />
+    <label>
+      normal
+    </label>
+  </label>
+  <title>
+    title1
+  </title>
+</div>
+`;
